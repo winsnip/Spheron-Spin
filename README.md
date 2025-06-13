@@ -100,6 +100,8 @@ docker logs -f winsnip-spheron
 ```
 
 
+Coffee: https://trakteer.id/Winsnipsupport/tip
+
 
 ## **Join Telegram Winsnip**
 
